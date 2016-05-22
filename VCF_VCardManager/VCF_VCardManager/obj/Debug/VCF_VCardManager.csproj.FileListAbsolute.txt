@@ -1,0 +1,17 @@
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\bin\Debug\VCF_VCardManager.exe.config
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\bin\Debug\VCF_VCardManager.exe
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\bin\Debug\VCF_VCardManager.pdb
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.csprojResolveAssemblyReference.cache
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\MainWindow.g.cs
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\App.g.cs
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager_MarkupCompile.cache
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager_MarkupCompile.lref
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\MainWindow.baml
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.g.resources
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.Properties.Resources.resources
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.csproj.GenerateResource.Cache
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.exe
+c:\users\demo\documents\visual studio 2015\Projects\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.pdb
+C:\Users\demo\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\bin\Debug\VCF_VCardManager.exe.config
+C:\Users\demo\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.exe
+C:\Users\demo\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.pdb
