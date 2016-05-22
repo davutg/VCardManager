@@ -33,7 +33,7 @@
                     <DataGridCheckBoxColumn Header="Required?" Binding="{Binding IsRequired,Mode=TwoWay}"></DataGridCheckBoxColumn>
                     <DataGridTextColumn Header="ItemNo" Binding="{Binding ItemNo,Mode=OneWay}" IsReadOnly="True"></DataGridTextColumn>
                     <DataGridTextColumn FontWeight="Bold" Header="Name" Binding="{Binding ContactName,Mode=TwoWay}"></DataGridTextColumn>
-                    <DataGridTextColumn Header="Surname" Binding="{Binding Phone,Mode=TwoWay}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Phone" Binding="{Binding Phone,Mode=TwoWay}"></DataGridTextColumn>
                 </DataGrid.Columns>
             </DataGrid>
         </Grid>
