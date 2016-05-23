@@ -18,7 +18,6 @@ C:\Users\demo\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\obj\De
 C:\Users\davutg\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\bin\Debug\VCF_VCardManager.exe.config
 C:\Users\davutg\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.exe
 C:\Users\davutg\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.pdb
-C:\Users\davutg\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager.csprojResolveAssemblyReference.cache
 C:\Users\davutg\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\obj\Debug\MainWindow.g.cs
 C:\Users\davutg\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\obj\Debug\App.g.cs
 C:\Users\davutg\Source\Repos\VCardManager\VCF_VCardManager\VCF_VCardManager\obj\Debug\VCF_VCardManager_MarkupCompile.cache
