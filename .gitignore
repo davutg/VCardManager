@@ -1,0 +1,12 @@
+bin/
+obj/
+bin/**
+obj/**
+**/bin/**
+**/obj/**
+*.pdb
+*.suo
+*.user
+bin
+obj
+packages
